@@ -1,4 +1,5 @@
 # Diploma Final Project
+# Maintainer stud. Luca Plian
 ## AI-Powered Analysis in Smart Home Environment
 
 This project is developed as part of my diploma thesis at the **University Politehnica of Bucharest**, Faculty of Automatic Control and Computers.  
